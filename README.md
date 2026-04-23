@@ -3,7 +3,7 @@
 # 📡 Smart Campus API (JAX-RS)
 
 ## 👨‍💻 Author
-W.K.T. Dulara (Jula)  
+W.K.T. Dulara  
 Module: 5COSC022W – Client-Server Architectures
 
 ## Overview
