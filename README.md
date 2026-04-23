@@ -1,5 +1,11 @@
 # Smart Campus API — 5COSC022W Coursework
 
+# 📡 Smart Campus API (JAX-RS)
+
+## 👨‍💻 Author
+W.K.T. Dulara (Jula)  
+Module: 5COSC022W – Client-Server Architectures
+
 ## Overview
 A RESTful JAX-RS API for managing campus rooms and IoT sensors.
 Built with Jersey 2.41 deployed on Apache Tomcat 9.
