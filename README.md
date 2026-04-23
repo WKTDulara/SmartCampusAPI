@@ -20,6 +20,18 @@ Built with Jersey 2.41 deployed on Apache Tomcat 9.
 - In-memory storage (ConcurrentHashMap)
 
 ## How to Build and Run
+- Structure
+```bash
+├── src/main/java/com/smartcampus/
+│ ├── api/       # Application configuration
+│ ├── model/     # POJO classes (Room, Sensor, Reading)
+│ ├── resource/  # REST endpoints
+│ ├── exception/ # Custom exceptions & mappers
+│ ├── filter/    # Logging filters
+│ └── store/     # In-memory data storage
+├── pom.xml      # Maven dependencies
+└── README.md    # Project documentation
+```
 
 1. Clone the repository:
    git clone https://github.com/WKTDulara/SmartCampusAPI.git
